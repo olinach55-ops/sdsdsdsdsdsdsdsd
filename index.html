@@ -18,7 +18,7 @@
     {% if weather %}
         <h2>Clima en {{ weather.city }}</h2>
         <p>🌡️ Temperatura: {{ weather.temp }} °C</p>
-        <p>💧 calorsito fresco: {{ weather.humidity }}%</p>
+        <p>💧 Humedad: {{ weather.humidity }}%</p>
         <p>🌤️ Estado: {{ weather.state }}</p>
         <img src="{{ weather.icon }}" alt="icono del clima">
     {% endif %}
