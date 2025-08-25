@@ -1,14 +1,8 @@
-# 🌦️ Mini Proyecto Colaborativo - GIT + SCRUM  
-
-![GitHub repo size](https://img.shields.io/github/repo-size/tuusuario/turepo?color=blue&label=Repo%20Size)  
-![GitHub contributors](https://img.shields.io/github/contributors/tuusuario/turepo?color=green&label=Colaboradores)  
-![GitHub last commit](https://img.shields.io/github/last-commit/tuusuario/turepo?color=red&label=Última%20Actualización)  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBs6JtlhYp6Lec0/giphy.gif" width="250" alt="Clima animado">
-</p>
-
----
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #1e3c72, #2a5298); -webkit-background-clip: text; color: transparent;">
+    🌍🌦️ GRUPO 1 – CLIMA POR CIUDAD 🌦️🌍
+  </span>
+</h1>
 
 ## 🎯 Objetivo General  
 Aplicar **Scrum, Git y desarrollo web colaborativo** para entregar un producto funcional que consuma una **API externa pública**, trabajando en equipo, simulando una planificación ágil y dejando evidencia del aprendizaje técnico y organizacional.  
