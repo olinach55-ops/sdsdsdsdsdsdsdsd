@@ -3,6 +3,9 @@
     🌍🌦️ GRUPO 1 – CLIMA POR CIUDAD 🌦️🌍
   </span>
 </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="600" height="15">
+</p>
 
 ## 🎯 Objetivo General  
 Aplicar **Scrum, Git y desarrollo web colaborativo** para entregar un producto funcional que consuma una **API externa pública**, trabajando en equipo, simulando una planificación ágil y dejando evidencia del aprendizaje técnico y organizacional.  
